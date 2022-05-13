@@ -1,3 +1,6 @@
+# My support / development discord
+
+https://discord.gg/ZVJEkjUTkx
 
 # Things you should know:
 * To open the menu in-game the **default key** is **"I"** or you can type **"/menu"**
