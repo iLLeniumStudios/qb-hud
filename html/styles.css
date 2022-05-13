@@ -39,12 +39,12 @@ div#q-loading-bar { display: none!important; } /* makes sure there's no ajax loa
 
 /* Hud radial styles */
 .text-health { color: rgb(33, 171, 97)!important; }
-.text-stress { color: rgb(255, 0, 0)!important; }
+.text-stress { color: rgb(132, 21, 18)!important; }
 .text-nos { color: rgb(255, 72, 133)!important; }
 .text-cruise { color: rgb(255, 72, 133)!important; }
 .text-armed { color: rgb(255, 72, 133)!important; }
 .text-harness { color: rgb(182, 72, 255)!important; }
-.text-oxygen { color: rgb(138, 168, 189)!important; }
+.text-oxygen { color: rgb(68, 112, 153)!important; }
 .text-parachute { color: rgb(0, 0, 0)!important; }
 .text-dev { color: rgb(0, 0, 0)!important; }
 .text-gauge { color: rgb(255, 255, 255)!important; }
